@@ -30,7 +30,7 @@
 
 delete martine.age;
     //delete Person.prototype.age;
-    
+
     console.log(martine.name, 'is', martine.age());
 
     //console.log(martine);
