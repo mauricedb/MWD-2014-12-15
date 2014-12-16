@@ -10,3 +10,7 @@ Modern Web Development
 ## 02 - Object-oriented JS ##
 - [TypeScript](http://www.typescriptlang.org/)
 
+## 04 - jQuery UI ##
+- [jqGrid](http://www.trirand.com/blog/?page_id=400)
+- [jqPlot](http://www.jqplot.com/index.php)
+
