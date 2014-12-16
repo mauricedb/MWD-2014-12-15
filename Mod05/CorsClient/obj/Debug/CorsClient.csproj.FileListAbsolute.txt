@@ -1,0 +1,12 @@
+C:\Demos\Mod04\Mod04\CorsClient\bin\CorsClient.dll.config
+C:\Demos\Mod04\Mod04\CorsClient\bin\CorsClient.dll
+C:\Demos\Mod04\Mod04\CorsClient\bin\CorsClient.pdb
+C:\Demos\Mod04\Mod04\CorsClient\obj\Debug\CorsClient.dll
+C:\Demos\Mod04\Mod04\CorsClient\obj\Debug\CorsClient.pdb
+C:\Demos\Mod04\Mod04\CorsClient\obj\Debug\CorsClient.csprojResolveAssemblyReference.cache
+C:\Demos\Mod05\CorsClient\bin\CorsClient.dll.config
+C:\Demos\Mod05\CorsClient\bin\CorsClient.dll
+C:\Demos\Mod05\CorsClient\bin\CorsClient.pdb
+C:\Demos\Mod05\CorsClient\obj\Debug\CorsClient.csprojResolveAssemblyReference.cache
+C:\Demos\Mod05\CorsClient\obj\Debug\CorsClient.dll
+C:\Demos\Mod05\CorsClient\obj\Debug\CorsClient.pdb

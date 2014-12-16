@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>CORS Server</title>
+</head>
+<body>
+    <button id="btn">Load data</button>
+    <pre id="result"></pre>
+
+    <script src="https://code.jquery.com/jquery-2.1.1.js"></script>
+    <script>
+        $(function () {
+            $('#btn').click(function () {
+                $.getJSON('http://localhost:53600/api/books/1').then(
+                    function success(e) {
+                        $('#result').text(JSON.stringify(e));
+                    }, function error(e) {
+                        $('#result').text(JSON.stringify(e));
+                    });
+            });
+        });
+    </script>
+</body>
+</html>
