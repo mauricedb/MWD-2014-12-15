@@ -34,3 +34,6 @@ Modern Web Development
 ## 07 - AngularJS and AJAX ##
 - [BreezeJS](http://www.getbreezenow.com/)
 
+## 08 - AngularJS Directives ##
+- [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en-US)
+
