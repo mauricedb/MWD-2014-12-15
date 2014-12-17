@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>07 - AngularJS and AJAX</title>
+</head>
+<body ng-app="booksApp">
+<h1>07 - AngularJS and AJAX</h1>
+
+<div ng-controller="booksCtrl">
+    <button ng-click="addBook()">Add book</button>
+    <ul>
+        <li ng-repeat="book in books">{{book.title}}</li>
+    </ul>
+</div>
+
+<script src="scripts/angular.js"></script>
+    <script src="app/booksApp.js"></script>
+</body>
+</html>

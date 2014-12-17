@@ -1,0 +1,14 @@
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\AngularAjax.dll.config
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\AngularAjax.dll
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\AngularAjax.pdb
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\Newtonsoft.Json.dll
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\System.Net.Http.Formatting.dll
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\System.Web.Http.dll
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\System.Web.Http.WebHost.dll
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\Newtonsoft.Json.xml
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\System.Net.Http.Formatting.xml
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\System.Web.Http.xml
+C:\Demos\Mod07\AngularAjax\AngularAjax\bin\System.Web.Http.WebHost.xml
+C:\Demos\Mod07\AngularAjax\AngularAjax\obj\Debug\AngularAjax.csprojResolveAssemblyReference.cache
+C:\Demos\Mod07\AngularAjax\AngularAjax\obj\Debug\AngularAjax.dll
+C:\Demos\Mod07\AngularAjax\AngularAjax\obj\Debug\AngularAjax.pdb

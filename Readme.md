@@ -31,3 +31,6 @@ Modern Web Development
 - [SPA Movies Sample](http://rawstack.azurewebsites.net/Movies)
 - [Google Trends](http://www.google.com/trends/explore#q=angularjs)
 
+## 07 - AngularJS and AJAX ##
+- [BreezeJS](http://www.getbreezenow.com/)
+
