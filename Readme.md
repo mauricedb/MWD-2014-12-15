@@ -25,3 +25,9 @@ Modern Web Development
 - [HTML 5 Test](https://html5test.com/)
 
 
+## 06 - AngularJS Introduction ##
+- [AngularJS](https://angularjs.org/)
+- [W3C Markup Validation Service](http://validator.w3.org/)
+- [SPA Movies Sample](http://rawstack.azurewebsites.net/Movies)
+- [Google Trends](http://www.google.com/trends/explore#q=angularjs)
+
