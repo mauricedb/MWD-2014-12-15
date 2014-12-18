@@ -42,3 +42,7 @@ Modern Web Development
 - [Bootswatch](http://bootswatch.com/)
 - [WrapBootstrap](https://wrapbootstrap.com/)
 
+
+## 12 - RESTful services and the browser ##
+- [JavaScript Micro-Templating](http://ejohn.org/blog/javascript-micro-templating/)
+- 

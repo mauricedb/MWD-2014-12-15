@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <button id="btn">Load</button>
+    <ul id="books"></ul>
+
+    <img src="Api/Books/1?$format=jpeg" alt="" />
+
+<script src="https://code.jquery.com/jquery-2.1.2.js"></script>
+<script src="demo.js"></script>
+
+    <script id="books_tmpl" type="text/html">
+        <% for ( var i = 0; i < books.length; i++ ) {
+        var book = books[i];%>
+        <li>
+            <a href="/services/books/<%=book.Id%>">
+                <%=book.Title%> by
+                <%=book.Author%>
+            </a>
+        </li>
+        <% } %>
+    </script>
+
+</body>
+</html>
