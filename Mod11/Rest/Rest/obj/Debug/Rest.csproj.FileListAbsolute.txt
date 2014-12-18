@@ -1,0 +1,14 @@
+C:\Demos\Mod11\Rest\Rest\bin\Rest.dll.config
+C:\Demos\Mod11\Rest\Rest\bin\Rest.dll
+C:\Demos\Mod11\Rest\Rest\bin\Rest.pdb
+C:\Demos\Mod11\Rest\Rest\bin\Newtonsoft.Json.dll
+C:\Demos\Mod11\Rest\Rest\bin\System.Net.Http.Formatting.dll
+C:\Demos\Mod11\Rest\Rest\bin\System.Web.Http.dll
+C:\Demos\Mod11\Rest\Rest\bin\System.Web.Http.WebHost.dll
+C:\Demos\Mod11\Rest\Rest\bin\Newtonsoft.Json.xml
+C:\Demos\Mod11\Rest\Rest\bin\System.Net.Http.Formatting.xml
+C:\Demos\Mod11\Rest\Rest\bin\System.Web.Http.xml
+C:\Demos\Mod11\Rest\Rest\bin\System.Web.Http.WebHost.xml
+C:\Demos\Mod11\Rest\Rest\obj\Debug\Rest.csprojResolveAssemblyReference.cache
+C:\Demos\Mod11\Rest\Rest\obj\Debug\Rest.dll
+C:\Demos\Mod11\Rest\Rest\obj\Debug\Rest.pdb
