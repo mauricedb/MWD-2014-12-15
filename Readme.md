@@ -37,3 +37,8 @@ Modern Web Development
 ## 08 - AngularJS Directives ##
 - [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en-US)
 
+## 10 - Bootstrap ##
+- [AngularJS Bootstrap](http://angular-ui.github.io/bootstrap/)
+- [Bootswatch](http://bootswatch.com/)
+- [WrapBootstrap](https://wrapbootstrap.com/)
+
