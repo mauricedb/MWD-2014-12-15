@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Mod01/package.json",
+        "Mod02/package.json",
+        "Mod03/package.json",
+        "Mod04/package.json",
+        "Mod06/package.json",
+        "Mod08/package.json",
+        "Mod09/package.json",
+        "Mod10/package.json"
+      ]
+    }
+  }
+}
