@@ -1,6 +1,8 @@
 Modern Web Development
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mauricedb/MWD-2014-12-15.svg)](https://greenkeeper.io/)
+
 
 ## 01 Functional JS ##
 - [SugarJS](http://sugarjs.com/)
